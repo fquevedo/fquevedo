@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fquevedo
 - 👀 I’m interested in learning new software technologies
 - 🌱 I’m currently learning data streaming technologies like apache kafka, im working on a project here on my github.. if you want to see it
-- 💞️ I’m looking to collaborate with coders to any part of the world, for share our experience and open to new projects
+- 💞️ I’m looking to collaborate with coders to any part of the world, for share experiences and open to participate on new projects
 - 📫 You can reach me on linkedin/in/fernquevedo, just send me a message!
 
 <!---
